@@ -14,9 +14,3 @@ export function generate(name) {
 
   return ret;
 }
-
-
-const chars = "0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-const passwordLength = 12;
-let password = "";
-
